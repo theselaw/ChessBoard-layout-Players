@@ -1,0 +1,25 @@
+*{
+margin-top:5vh;
+}
+
+table{
+background-color:#527EF7;
+border:40px solid grey;
+}
+
+
+td{
+border:none;
+text-align:center;
+font-size:64px;
+}
+
+.white-tiles{
+background-color:#99DFFF;
+}
+.black-tiles{
+background-color:#527EF7;
+}
+#border{
+border:5px solid red;
+}
